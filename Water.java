@@ -4,11 +4,11 @@ public class Water {
 
 		// Characters have different drinking times
 		try {
-			if (contenderName.equals("Micheal")) {
+			if (contenderName.equals("Steve")) {
 				Thread.sleep(500);
-			} else if (contenderName.equals("Trevor")) {
+			} else if (contenderName.equals("Alex")) {
 				Thread.sleep(1000);
-			} else if (contenderName.equals("Franklin")) {
+			} else if (contenderName.equals("Bob")) {
 				Thread.sleep(1500);
 			} else {
 				Thread.sleep(300);
